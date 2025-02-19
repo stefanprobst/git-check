@@ -4,7 +4,6 @@ echo "WELCOME"
 
 echo "Test" > bla.txt
 
-git remote get-url origin
-git branch
+git log
 # git add -A
 # git commit -m "new stuff"
